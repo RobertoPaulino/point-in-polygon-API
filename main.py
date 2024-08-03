@@ -27,4 +27,4 @@ def address_to_coordinates(address):
 
 
 if __name__ == '__main__':
-    print(address_to_coordinates(input("Enter address: ")))
+    print(address_to_coordinates(input("Enter address:  ")))
