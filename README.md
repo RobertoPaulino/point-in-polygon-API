@@ -1,4 +1,4 @@
-# 🎯 Point-in-gon-API
+# 🎯 Point-in-polygon-API
 
 Welcome to my **point-in-shapefile-API**, This Python-based API, powered by **Flask**, **GeoPandas**, and the **Google Maps API**, is my solution for determining whether an address falls within a specified polygon shape.
 
@@ -100,7 +100,6 @@ you can make changes to the response and variables in the code to fit your proje
 Want to tweak the code to fit your needs? Feel free to change the names of variables and functions for better readability in your project. 🛠️👨‍💻
 
 ## 🤝 Contributing
-
 Contributions are always welcome! Whether it's a bug report, new feature, or a piece of advice, we appreciate your input.
 
 ### How to Contribute
