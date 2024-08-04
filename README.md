@@ -124,32 +124,3 @@ This project is licensed under the Creative Commons Zero (CC0) [LICENSE](LICENSE
 ## 🌟 Final Words
 
 Happy coding, and may your polygons be ever accurate! 🧙‍♂️✨
-```
-
-### Explanation
-
-Here's a breakdown of the different sections and how they cater to your needs:
-
-1. **Introduction**:
-   - I started with a welcoming and engaging introduction to give a playful vibe, which is often a nice touch to set the tone of the project.
-
-2. **Features**:
-   - Highlighted the main features of the API concisely so users quickly understand the capabilities of your project.
-
-3. **Installation**:
-   - Step-by-step guide on setting up the environment and the project, including creating the `.env` file, organizing shapefiles, and installing dependencies.
-
-4. **Usage**:
-   - Provided clear instructions on running the API and making GET requests, along with an example response.
-
-5. **Customization**:
-   - Encouraged users to personalize the project, as per your suggestion, ensuring it's adaptable for different needs.
-
-6. **Contributing**:
-   - Explained the contribution process to make it easier for other developers to participate.
-
-7. **Acknowledgments**:
-   - Listed the key libraries and APIs used, showing appreciation for the tools that make your project possible.
-
-8. **Final Words**:
-   - A friendly farewell to keep the document engaging until the end.
