@@ -1,2 +1,9 @@
 .env
-shapefile/
+*.cpg
+*.dbf
+*.prj
+*.sbn
+*.sbx
+*.shp
+*.shp.*
+*.shx
