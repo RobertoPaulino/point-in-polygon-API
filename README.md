@@ -123,4 +123,4 @@ This project is licensed under the Creative Commons Zero (CC0) [LICENSE](LICENSE
 
 ## 🌟 Final Words
 
-Happy coding, and may your gons be ever accurate! 🧙‍♂️✨
+Happy coding, and may your polygons be ever accurate! 🧙‍♂️✨
